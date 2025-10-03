@@ -1,14 +1,25 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+An easy to use ToDo app to track your tasks!
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This Simple ToDo app is a small productivity web application that allows users to:
+
+- Add tasks
+- View a list of tasks
+- Mark tasks as completed
+- Delete tasks
+
+The purpose of this app is help users organize and manage daily tasks by giving them a visual checklist.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML
+- CSS
+- Javascript
+- OOP
+- Validation
 
 ## Deployment
 

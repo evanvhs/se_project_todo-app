@@ -25,4 +25,4 @@ The purpose of this app is help users organize and manage daily tasks by giving 
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Deployment Link](https://evanvhs.github.io/se_project_todo-app/)
